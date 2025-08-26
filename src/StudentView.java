@@ -3,3 +3,5 @@ public class StudentView {
         System.out.println("Estudiante: " + student.getName() + " | Edad: " + student.getAge());
     }
 }
+
+// Alex Casapaico
